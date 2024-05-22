@@ -1,5 +1,7 @@
 // UserPost
-func UserPost(){}
+func UserPost(){
+	
+}
 // UserGet
 func UserGet(){}
 // UserCreate
